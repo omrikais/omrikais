@@ -1,4 +1,4 @@
-### Hi there 👋
+I build software for macOS and tools for developers. Current projects include cctally-dev, Skill Manager, AF3 for Mac, and a duplicate detector for macOS. I’m also interested in formal languages, compilers, and the ideas behind programming languages.
 
 <!--
 **omrikais/omrikais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
